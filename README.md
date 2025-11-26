@@ -1,2 +1,27 @@
-# Domain_Name_Registry_-Mini-ENS-
-using solidify  to creat a test domain name registry 
+# Domain Name Registry (Mini ENS)
+
+## 🏷 Project Title
+Domain Name Registry (Mini ENS)
+
+## 📌 Project Description
+This project implements a simplified Ethereum Name Service (ENS)-style registry on the blockchain. Users can register human-readable names, link them to an owner address, renew expired names, and transfer ownership securely through smart contract interactions.
+
+## 🎯 Project Vision
+To enable a decentralized, censorship-resistant naming system where identity and ownership of domain-like identifiers are stored transparently on-chain and controlled entirely by users.
+
+## 🚀 Key Features
+✅ Register a unique domain name  
+✅ Automatic expiration based on duration  
+✅ Renew domain ownership anytime  
+✅ Transfer domain to another wallet  
+✅ Check availability before registering  
+✅ On-chain ownership verification  
+
+## 🔮 Future Scope
+🔹 Marketplace for buying/selling domains  
+🔹 Bidding & auction system for premium names  
+🔹 Subdomain support (e.g., app.name.eth)  
+🔹 IPFS / content hash mapping  
+🔹 ENS-compatible resolution system  
+🔹 Front-end DApp with wallet integration  
+
